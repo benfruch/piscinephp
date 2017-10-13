@@ -1,0 +1,56 @@
+h1
+{
+  text-align: center;
+  font-family: monospace;
+  font-size:3vw;
+  font-weight:500;
+}
+table
+{
+  empty-cells: hide;
+  table-layout: fixed;
+  font-size: 100%;
+}
+td
+{
+  border: 1px solid black;
+  width: 500px;
+}
+body{
+  font-size: 1vw;
+}
+.symbol{
+  text-align: center;
+}
+.number{
+  text-align: left;
+  vertical-align: text-bottom;
+}
+.atomic{
+  text-align: right;
+  vertical-align: text-top;
+}
+.orange{
+  background-color: #FF8000;
+}
+.green-light{
+  background-color: #81F7BE;
+}
+.blue-light{
+  background-color: #58D3F7;
+}
+.purple{
+  background-color: #9A2EFE;
+}
+.yellow{
+  background-color: #F2F5A9;
+}
+.pink{
+  background-color: #F6CED8;
+}
+.yellow-h{
+  background-color: #ffff00;
+}
+.red{
+  background-color: #ff3333;
+}
